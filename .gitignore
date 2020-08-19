@@ -1,0 +1,15 @@
+# Ignore the following directories
+cache
+comprf
+DLGLOG
+DTS
+EDS
+Images
+LNG
+Local
+RCP
+RecipePro
+TAG
+TREND
+TRENDPRO
+VBA
